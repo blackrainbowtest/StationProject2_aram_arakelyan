@@ -1,0 +1,27 @@
+:root {
+    /* Background color */
+    --backgroundBlackLight: #181818;
+    --backgroundBlack: #000000;
+    --backgroundOrange: #FFA500;
+    --backgroundOrangeDark: #FF8C00;
+    --backgroundBlackLightTransparentLow: #181818de;
+
+    --backgroundWhite: #ffffff;
+
+    /* Text color */
+    --textWhite: #ffffff;
+    --textGray: #666666;
+
+    /* Scrollbar color */
+    --scrollBarBoxShadow: #0000004d;
+    --scrollBarBackground: #F5F5F5;
+    --scrollBarThumbBackground: #F90;
+    --scrollBarThumbBackgroundImage: -webkit-linear-gradient(45deg,
+            #ffffff33 25%,
+            transparent 25%,
+            transparent 50%,
+            #ffffff33 50%,
+            #ffffff33 75%,
+            transparent 75%,
+            transparent);
+}

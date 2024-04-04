@@ -1,0 +1,82 @@
+@import "./_commonColors.css";
+@import "./paginationStyle.css";
+@import "./backgroundAnimation.css";
+@import "./scrollBarStyle.css";
+@import "./cardComponent.css";
+@import "./nav.css";
+@import "./goToTop.css";
+@import "./cardInformation.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Main Body */
+
+#cardComponent {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 15px;
+    align-content: start; /* Вертикальное выравнивание контейнера */
+    justify-content: center; /* Горизонтальное выравнивание элементов */
+    overflow-y: auto;
+    height: 100vh;
+    padding-bottom: calc(7vh + 15px);
+    padding-top: calc(7vh + 15px);
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 40;
+}
+
+@media screen and (min-width: 720px) {
+    #cardComponent {
+        justify-content: space-around; /* Пространство вокруг элементов */
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    #cardComponent {
+        justify-content: space-between; /* Пространство между элементами */
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    #cardComponent {
+        justify-content: space-evenly; /* Равномерное распределение пространства */
+    }
+}
+
+
+
+
+
+#cardComponent>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardBox {
+    border-radius: 5px;
+}
+
+
+#popap {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 280;
+    background-color: #00000054;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
