@@ -12,7 +12,7 @@ Single Page Application (SPA) Logic: The project utilizes a single-page applicat
 
 ### 🛠 Tools used:
 [![GitHub](https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/vs%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
 
 
 ### 🏴 Used in the project:
@@ -27,8 +27,11 @@ Single Page Application (SPA) Logic: The project utilizes a single-page applicat
 ### 📚 Usage:
 
 1. **💻 Installation:**
-   - Clone the repository to your local machine: `git clone https://github.com/blackrainbowtest/StationProject2_aram_arakelyan.git`.
-   - Open the project folder in your preferred development environment.
+- Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/blackrainbowtest/StationProject2_aram_arakelyan.git
+    ```
+- Alternatively, you can click the "Code" button at the top of the repository page and select "Download ZIP" to download the repository as a ZIP file.
 
 2. **🚀 Running the Project:**
    - Open the `index.html` file in your web browser.
@@ -48,16 +51,16 @@ Single Page Application (SPA) Logic: The project utilizes a single-page applicat
    Here are some screenshots of the project:
 
     - **Main Page:**
-    ![Main Page](https://prnt.sc/LAvWVbSsXVrc)
+    ![Main Page](screenshots/Screenshot_1.png)
 
     - **Adding to Favorites:**
-    ![Adding to Favorites](https://prnt.sc/aKHXVx3FsviY)
+    ![Adding to Favorites](screenshots/Screenshot_2.png)
 
     - **Favorites Section:**
-    ![Favorites Section](https://prnt.sc/xoydxNdfRHCx)
+    ![Favorites Section](screenshots/Screenshot_3.png)
 
     - **Removing from Favorites:**
-    ![Removing from Favorites](https://prnt.sc/s1wke8uqakP3)
+    ![Removing from Favorites](screenshots/Screenshot_4.png)
 
 
 ### 🤝 Contribution:
