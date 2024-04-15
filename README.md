@@ -62,21 +62,21 @@ Single Page Application (SPA) Logic: The project utilizes a single-page applicat
     - **Removing from Favorites:**
     ![Removing from Favorites](screenshots/Screenshot_4.png)
 
-
 ### 🤝 Contribution:
 
-    ## How to Contribute
-    
-    - **Bug fix:** If you have found a bug or want to suggest an improvement, please create a new [Issue](https://github.com/blackrainbowtest/StationProject2_aram_arakelyan/issues) with a detailed description.
-    - **Code changes:** If you'd like to make changes to the code, fork the repository, make the necessary modifications, and submit a [Pull Request](https://github.com/blackrainbowtest/StationProject2_aram_arakelyan/pulls).
+## How to Contribute
 
-    ## Code Style
-    Please adhere to the project's general coding guidelines and style. If you have any questions or concerns, feel free to ask for assistance.
+- **Bug fix:** If you have found a bug or want to suggest an improvement, please create a new [Issue](https://github.com/blackrainbowtest/StationProject2_aram_arakelyan/issues) with a detailed description.
+- **Code changes:** If you'd like to make changes to the code, fork the repository, make the necessary modifications, and submit a [Pull Request](https://github.com/blackrainbowtest/StationProject2_aram_arakelyan/pulls).
+
+## Code Style
+Please adhere to the project's general coding guidelines and style. If you have any questions or concerns, feel free to ask for assistance.
 
 ### 📝 License:
-    This project is licensed under the [MIT License](https://github.com/blackrainbowtest/StationProject2_aram_arakelyan/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/blackrainbowtest/StationProject2_aram_arakelyan/blob/main/LICENSE).
 
 ### 📧 Contact:
-    If you have any questions or suggestions, don't hesitate to [get in touch with me](https://github.com/blackrainbowtest).
+If you have any questions or suggestions, don't hesitate to [get in touch with me](https://github.com/blackrainbowtest).
+
 
 ### 💖💙🧡 Thank you for your interest in the project!
