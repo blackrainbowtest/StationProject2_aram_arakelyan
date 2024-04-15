@@ -51,16 +51,16 @@ Single Page Application (SPA) Logic: The project utilizes a single-page applicat
    Here are some screenshots of the project:
 
     - **Main Page:**
-    ![Main Page](screenshots/Screenshot_1.png)
+    ![Main Page](https://drive.google.com/file/d/1DqEW6JpzbJCqgs5C-1jq_VX3Opeol7aG/view?usp=drive_link)
 
     - **Adding to Favorites:**
-    ![Adding to Favorites](screenshots/Screenshot_2.png)
+    ![Adding to Favorites](https://drive.google.com/file/d/1m4Bmetf6rOG499QE23qyOidBqwxw04iR/view?usp=drive_link)
 
     - **Favorites Section:**
-    ![Favorites Section](screenshots/Screenshot_3.png)
+    ![Favorites Section](https://drive.google.com/file/d/15H9VX6zkBdzX5mBQzD45zOzGWwUXZfqt/view?usp=drive_link)
 
     - **Removing from Favorites:**
-    ![Removing from Favorites](screenshots/Screenshot_4.png)
+    ![Removing from Favorites](https://drive.google.com/file/d/1uD_ggbaf4gXuFBYqan2iwNM8cKbW8_p1/view?usp=drive_link)
 
 ### 🤝 Contribution:
 
