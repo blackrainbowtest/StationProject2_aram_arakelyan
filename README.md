@@ -22,7 +22,9 @@ Single Page Application (SPA) Logic: The project utilizes a single-page applicat
 
 
 ### ♻ Used packages:
-<p>- no packages were used</p>
+<p>
+- no packages were used
+</p>
 
 ### 📚 Usage:
 
